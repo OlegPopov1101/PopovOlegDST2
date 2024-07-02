@@ -1,0 +1,31 @@
+# Проект 0. Угадай число
+
+## Оглавление
+[1. Описание проект](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+[2. Какой кейс решаем?](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+[3. Кпаикая информация о данных](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+[4. Этапы работы над проектом](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+[5. Результат](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+
+### Описание проекта
+Угадать загаданное компьюетром число за минимальное число попыток.
+
+:arrow_up:[к Оглавлению](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
+
+### Какой кейс решаем?
+Нужно описать программу, которая угадываетт число за минимальное число попыток
+
+**Условия соревнования:**
+- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под "угадать", подразумевается "написать программу, которая угадывает число".
+- Алгоритм учитывает информацию о том, больше ли случаное число или меньше нужного нам.
+
+**Метрика качесва**
+Результаты оцениваются по среднему количеству попыток при 1000 повторений
+
+**Что практикуем**
+Учимся писать хороший код на python
+
+### Краткая информация о данных
+....
+
+:arrow_up:[к оглавлению](https://github.com/OlegPopov1101/PopovOlegDST2/blob/main/project_0/README.md)
